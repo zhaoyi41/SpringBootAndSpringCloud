@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: provider-hello
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: UID-ECD
+Implementation-Vendor-Id: cn.tedu
+Build-Jdk: 1.8.0_172
+Implementation-URL: http://projects.spring.io/spring-boot/provider-hel
+ lo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

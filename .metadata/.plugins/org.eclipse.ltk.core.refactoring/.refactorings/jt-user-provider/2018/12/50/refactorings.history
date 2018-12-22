@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;BasePojo.java&apos; to &apos;jt-user-provider/src/main/java/cn.jt.pojo&apos;&#x0D;&#x0A;- Original project: &apos;jt-user-provider&apos;&#x0D;&#x0A;- Destination element: &apos;jt-user-provider/src/main/java/cn.jt.pojo&apos;&#x0D;&#x0A;- Original element: &apos;cn.jt.pojo.BasePojo.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;cn.jt.pojo" element1="/src\/main\/java&lt;cn.jt.pojo{BasePojo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1544499962024" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,3 @@
+1543993330299	Move 'UserMapper.xml' to 'mappers'
+1543993404303	Rename package 'cn.tedu.mybatis.pojo'
+1543995077298	Rename resource 'application.xml'

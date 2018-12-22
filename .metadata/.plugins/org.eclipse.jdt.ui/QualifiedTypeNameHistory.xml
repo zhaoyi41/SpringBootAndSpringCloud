@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.ibatis.annotations.Param"/>
+<fullyQualifiedTypeName name="cn.tedu.ssm.service.UserService"/>
+<fullyQualifiedTypeName name="cn.tedu.ssm.pojo.User"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="cn.tedu.ssm.mapper.UserMapper"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayInputStream"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
+<fullyQualifiedTypeName name="org.springframework.boot.SpringBootConfiguration"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
+<fullyQualifiedTypeName name="org.mybatis.spring.annotation.MapperScan"/>
+<fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
+<fullyQualifiedTypeName name="cn.jt.RunAppJtUserProvider"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="cn.jt.pojo.BasePojo"/>
+<fullyQualifiedTypeName name="com.baomidou.mybatisplus.mapper.BaseMapper"/>
+<fullyQualifiedTypeName name="cn.jt.pojo.User"/>
+<fullyQualifiedTypeName name="com.baomidou.mybatisplus.mapper.EntityWrapper"/>
+</qualifiedTypeNameHistroy>
